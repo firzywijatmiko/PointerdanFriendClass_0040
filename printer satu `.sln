@@ -7,6 +7,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "printer satu `", "printer s
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "poiter dua", "poiter dua\poiter dua.vcxproj", "{0FF1DC30-00E5-4791-B0ED-19EAA7E3C6A4}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "friendclasssatu", "friendclasssatu\friendclasssatu.vcxproj", "{CC335C86-C3E7-4CEC-B41D-27DBDEC29911}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "friendfunctionsatu", "friendfunctionsatu\friendfunctionsatu.vcxproj", "{75B10FF5-8F19-4EE7-B210-29F9B94A4BD8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +35,22 @@ Global
 		{0FF1DC30-00E5-4791-B0ED-19EAA7E3C6A4}.Release|x64.Build.0 = Release|x64
 		{0FF1DC30-00E5-4791-B0ED-19EAA7E3C6A4}.Release|x86.ActiveCfg = Release|Win32
 		{0FF1DC30-00E5-4791-B0ED-19EAA7E3C6A4}.Release|x86.Build.0 = Release|Win32
+		{CC335C86-C3E7-4CEC-B41D-27DBDEC29911}.Debug|x64.ActiveCfg = Debug|x64
+		{CC335C86-C3E7-4CEC-B41D-27DBDEC29911}.Debug|x64.Build.0 = Debug|x64
+		{CC335C86-C3E7-4CEC-B41D-27DBDEC29911}.Debug|x86.ActiveCfg = Debug|Win32
+		{CC335C86-C3E7-4CEC-B41D-27DBDEC29911}.Debug|x86.Build.0 = Debug|Win32
+		{CC335C86-C3E7-4CEC-B41D-27DBDEC29911}.Release|x64.ActiveCfg = Release|x64
+		{CC335C86-C3E7-4CEC-B41D-27DBDEC29911}.Release|x64.Build.0 = Release|x64
+		{CC335C86-C3E7-4CEC-B41D-27DBDEC29911}.Release|x86.ActiveCfg = Release|Win32
+		{CC335C86-C3E7-4CEC-B41D-27DBDEC29911}.Release|x86.Build.0 = Release|Win32
+		{75B10FF5-8F19-4EE7-B210-29F9B94A4BD8}.Debug|x64.ActiveCfg = Debug|x64
+		{75B10FF5-8F19-4EE7-B210-29F9B94A4BD8}.Debug|x64.Build.0 = Debug|x64
+		{75B10FF5-8F19-4EE7-B210-29F9B94A4BD8}.Debug|x86.ActiveCfg = Debug|Win32
+		{75B10FF5-8F19-4EE7-B210-29F9B94A4BD8}.Debug|x86.Build.0 = Debug|Win32
+		{75B10FF5-8F19-4EE7-B210-29F9B94A4BD8}.Release|x64.ActiveCfg = Release|x64
+		{75B10FF5-8F19-4EE7-B210-29F9B94A4BD8}.Release|x64.Build.0 = Release|x64
+		{75B10FF5-8F19-4EE7-B210-29F9B94A4BD8}.Release|x86.ActiveCfg = Release|Win32
+		{75B10FF5-8F19-4EE7-B210-29F9B94A4BD8}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
