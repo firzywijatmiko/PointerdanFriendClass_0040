@@ -9,17 +9,17 @@ using namespace std;
 
 class mahasiswa
 {
-    public;
-    void showin()
+public:
+    void showNin()
     {
-        cout << "no induk = " << nim << endl;
+        cout << "No Induk = " << nim << endl;
     }
 
 };
 
 int main()
 {
-    mahasiswa* mhs = new mahasisawa{ 1 };
+    mahasiswa *mhs = new mahasiswa{ 1 };
     mhs->nim = 2;
     mhs->showNim();
     delete mhs;
